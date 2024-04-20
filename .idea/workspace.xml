@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f906991b-9828-4956-ab83-ee42a6c045d0" name="Changes" comment="First commit. Created the floor plan and booking function.">
+    <list default="true" id="f906991b-9828-4956-ab83-ee42a6c045d0" name="Changes" comment="Second commit. Added check availability, show booking, and free a seat functions with comments where necessary.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
     </list>
@@ -66,11 +66,20 @@
       <option name="project" value="LOCAL" />
       <updated>1713562150062</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Second commit. Added check availability, show booking, and free a seat functions with comments where necessary.">
+      <option name="closed" value="true" />
+      <created>1713566585745</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713566585745</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit. Created the floor plan and booking function." />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit. Created the floor plan and booking function." />
+    <MESSAGE value="Second commit. Added check availability, show booking, and free a seat functions with comments where necessary." />
+    <option name="LAST_COMMIT_MESSAGE" value="Second commit. Added check availability, show booking, and free a seat functions with comments where necessary." />
   </component>
 </project>
