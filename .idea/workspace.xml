@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f906991b-9828-4956-ab83-ee42a6c045d0" name="Changes" comment="Second commit. Added check availability, show booking, and free a seat functions with comments where necessary.">
+    <list default="true" id="f906991b-9828-4956-ab83-ee42a6c045d0" name="Changes" comment="Third commit. Added menu to display functions and improved book and free a seat function by adding functionality for seat number validity checking.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
     </list>
@@ -32,16 +32,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.app.executor": "Run",
-    "Python.draft.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/obobu/PycharmProjects-1/FC723-Final Project-P437033"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.draft.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/obobu/PycharmProjects-1/FC723-Final Project-P437033&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -74,12 +74,21 @@
       <option name="project" value="LOCAL" />
       <updated>1713566585745</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Third commit. Added menu to display functions and improved book and free a seat function by adding functionality for seat number validity checking.">
+      <option name="closed" value="true" />
+      <created>1713650694425</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713650694426</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit. Created the floor plan and booking function." />
     <MESSAGE value="Second commit. Added check availability, show booking, and free a seat functions with comments where necessary." />
-    <option name="LAST_COMMIT_MESSAGE" value="Second commit. Added check availability, show booking, and free a seat functions with comments where necessary." />
+    <MESSAGE value="Third commit. Added menu to display functions and improved book and free a seat function by adding functionality for seat number validity checking." />
+    <option name="LAST_COMMIT_MESSAGE" value="Third commit. Added menu to display functions and improved book and free a seat function by adding functionality for seat number validity checking." />
   </component>
 </project>
