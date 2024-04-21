@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f906991b-9828-4956-ab83-ee42a6c045d0" name="Changes" comment="Third commit. Added menu to display functions and improved book and free a seat function by adding functionality for seat number validity checking.">
+    <list default="true" id="f906991b-9828-4956-ab83-ee42a6c045d0" name="Changes" comment="Fourth commit. Used/Added 'Class'">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
     </list>
@@ -82,13 +82,22 @@
       <option name="project" value="LOCAL" />
       <updated>1713650694426</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Fourth commit. Used/Added 'Class'">
+      <option name="closed" value="true" />
+      <created>1713654616279</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713654616279</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit. Created the floor plan and booking function." />
     <MESSAGE value="Second commit. Added check availability, show booking, and free a seat functions with comments where necessary." />
     <MESSAGE value="Third commit. Added menu to display functions and improved book and free a seat function by adding functionality for seat number validity checking." />
-    <option name="LAST_COMMIT_MESSAGE" value="Third commit. Added menu to display functions and improved book and free a seat function by adding functionality for seat number validity checking." />
+    <MESSAGE value="Fourth commit. Used/Added 'Class'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fourth commit. Used/Added 'Class'" />
   </component>
 </project>
